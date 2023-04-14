@@ -6,7 +6,7 @@
 ### Hi I am a beginner Frontend Developer
 
 
-### 💻 My stack
+### <h2 alighn="center">💻 My stack</h2>
 <div id=icon align="center">
 	<p>html, css, js*</p>
 	<p>*only statring to learn.</p>
